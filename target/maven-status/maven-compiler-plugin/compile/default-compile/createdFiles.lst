@@ -1,0 +1,4 @@
+ir\mz\Application.class
+ir\mz\controller\StudentController.class
+ir\mz\model\Student.class
+ir\mz\repository\StudentRepository.class
